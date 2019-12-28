@@ -8,6 +8,7 @@ To download a zip-file: 1. Click the filename. 2 Click View Raw. (Right-click Vi
 This is an installation package containing a Joomla 4.0 version of the wellknown JDump package.
 It's useful for extension developers, replacing PHP's var_dump and print_r commands. Some other informations
 can be displayed.
+It's a fork of the original (for Joomla 3.x) here on GitHub .../mathiasverraes/jdump
 
 #### pkg_jdump_4_0_0-alpha1.zip - for early Joomla 4.0 alpha versions only
 Tested with Joomla! 4.0.0-alpha5.
