@@ -10,9 +10,11 @@ It's useful for extension developers, replacing PHP's var_dump and print_r comma
 can be displayed.
 
 #### pkg_jdump_4_0_0-alpha1.zip - for early Joomla 4.0 alpha versions only
+Tested with Joomla! 4.0.0-alpha5.
 
-
+#### Installation
 Install the package with the normal Joomla utilities. Start the component, read the hints and start the plugin
 from this view, before you add the debug commands to your PHP files.
 
-Tested with Joomla! 4.0.0-alpha5.
+You may have to order the system plugin to a top position, if you "debug" code that start very early.
+
